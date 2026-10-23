@@ -1,0 +1,8 @@
+feature/stats
+067e0dbaf3b39bf7669b6d65b5fe6f38765e283e|dmitrohudnak-prog|2026-09-13 16:45:00|Test: додано тести для модуля статистики
+d60f2d79dd0fd85533c1d47297d7740d6008c27b|dmitrohudnak-prog|2026-09-12 11:30:00|Feature: реалізовано підрахунок рядків
+b873b3fe411dcbe8546c566b39559b1e874e5629|dmitrohudnak-prog|2026-09-11 09:00:00|Feature: додано заготовку для збору статистики
+0d93765c40c10de68631c78de136110d7fd9b45c|dmitrohudnak-prog|2026-09-10 14:35:00|Фікс: виправляю друкарську помилку
+2c3e15bec41763b447a91ffe0333fcf96e775dfc|dmitrohudnak-prog|2026-09-05 14:00:00|Документація: додано секцію вимог
+0e36b7042bedcf3b7ce16b6f3858fb7053907342|dmitrohudnak-prog|2026-09-03 12:00:00|Документація: додано опис функціоналу
+7d398e7206543fc9689f12ed0db59fd5100766f9|dmitrohudnak-prog|2026-09-01 10:00:00|Init: базова структура
